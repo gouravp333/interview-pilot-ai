@@ -40,7 +40,7 @@ AI-powered interview preparation platform built using Next.js, FastAPI, and Groq
 
 ### Evaluation Report
 
-![Evaluation](screenshots/evaluation.png)
+![Evaluation](screenshots/evaluate.png)
 
 ## Future Improvements
 
