@@ -4,11 +4,11 @@ AI-powered interview preparation platform built using Next.js, FastAPI, and Groq
 
 ## Features
 
-* Generate interview questions based on skills
-* AI-powered answer evaluation
-* Performance scoring
-* Technical, Project and HR interview preparation
-* Modern dashboard interface
+* Generate personalized interview questions based on skills
+* AI-powered answer evaluation and feedback
+* Technical, Project-based and HR interview preparation
+* Real-time scoring and performance analysis
+* Modern responsive dashboard
 
 ## Tech Stack
 
@@ -28,9 +28,27 @@ AI-powered interview preparation platform built using Next.js, FastAPI, and Groq
 * Groq API
 * Llama 3.3 70B
 
+## Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Generated Questions
+
+![Questions](screenshots/questions.png)
+
+### Evaluation Report
+
+![Evaluation](screenshots/evaluation.png)
+
 ## Future Improvements
 
-* Voice Interviews
-* PDF Resume Upload
-* Interview History
-* Downloadable Reports
+* Voice-based interviews
+* Resume upload and analysis
+* Interview history tracking
+* Downloadable performance reports
+
+## Author
+
+Gourav P
